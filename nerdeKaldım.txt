@@ -1,5 +1,0 @@
-Bilal Bey in vermiş olduğu Ajax çağrısını yappmaya başladım user-list.jsp içinde Edit e tıkladığımızda ilgili Kişinin Edit kısmına gitmesi 
-gerekiyor ancak "Edit" bir buton değil tıklanılabilir bir link gibi bunu çözmemiz gerekecek
-
-- şu an aklıma gelenler ..../list kısımnda db gibi oluşan kolonların yanlarına birer tane edit butonu koyup ajax ı yapmak hepsinde olursa
-Edit linkini siler butondan yürürüz yarın hallolur gibi hatta uslu bir çocuk olursan yarın spring e bile başlayabilirsin.
