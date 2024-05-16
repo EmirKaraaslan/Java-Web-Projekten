@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/LENOVO/Desktop/DetaySoft/DetaySoftProjeler/webIntellijiDeneme/web-02/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/LENOVO/Desktop/DetaySoft/DetaySoftProjeler/webIntellijiDeneme/web-02/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/LENOVO/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.0.33.jar"/>
+    <PostResources base="C:/Users/LENOVO/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/protobuf-java-3.21.9.jar"/>
+    <PostResources base="C:/Users/LENOVO/Desktop/DetaySoft/DetaySoftProjeler/webIntellijiDeneme/web-02/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jstl-1.2.jar"/>
+    <PostResources base="C:/Users/LENOVO/Desktop/DetaySoft/DetaySoftProjeler/webIntellijiDeneme/web-02/src/main/webapp/WEB-INF/lib/jsp-api-2.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jsp-api-2.2.jar"/>
+    <PostResources base="C:/Users/LENOVO/Desktop/DetaySoft/DetaySoftProjeler/webIntellijiDeneme/web-02/src/main/webapp/WEB-INF/lib/servlet-api-2.5.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api-2.5.jar"/>
+    <PostResources base="C:/Users/LENOVO/Desktop/DetaySoft/DetaySoftProjeler/webIntellijiDeneme/web-02/src/main/webapp/WEB-INF/lib/mysql-connector-j-8.3.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.3.0.jar"/>
+    <PostResources base="C:/Users/LENOVO/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.3.1_css_bootstrap.css" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/http_stackpath.bootstrapcdn.com_bootstrap_4.3.1_css_bootstrap.css"/>
+  </Resources>
+</Context>
