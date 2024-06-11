@@ -11,9 +11,9 @@ public class UserDAO {
 
     // This DAO (Data- Accsess - Object) class provides CRUD (Creat-Read-Update-Delete) DB operations for the table in the DB
 
-    private String jdbcURL = "jdbc:mysql://127.0.0.1:3306/demo";
+    private String jdbcURL = "jdbc:mysql://127.0.0.1:1208/demo";
     private String jdbcusername = "root";
-    private String jdbcpassword = "123emir123";
+    private String jdbcpassword = "qwerty123";
 
     private static final String INSERT_USERS_SQL = "INSERT INTO users (name, email, country) VALUES (?, ?, ?)";
 
